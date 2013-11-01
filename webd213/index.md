@@ -1,5 +1,6 @@
 ---
 title: WEBD 213 - Motion Graphics II
+layout: default
 ---
 #WEBD 213 - Motion Graphics II - Joey Lapegna
 
