@@ -26,6 +26,7 @@ I'm in the process of re-doing this site. Please bear with me while I get things
 
 ###Class 10 - November 8, 2013
 * [Snake Game Graphics][snakegfx]
+* [Snake Game Font][snakefnt]
 
 ###Class 09 - November 1, 2013
 * [Discover Chrome Dev tools][chromedev]
@@ -40,3 +41,4 @@ I'm in the process of re-doing this site. Please bear with me while I get things
 [chromedev]:	http://discover-devtools.codeschool.com
 [firstgame]: 	myfirstgame.html
 [snakegfx]:		./snake_graphics.zip
+[snakefnt]:		./snake_font.zip
