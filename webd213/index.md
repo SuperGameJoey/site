@@ -4,8 +4,6 @@ layout: default
 ---
 #WEBD 213 - Motion Graphics II - Joey Lapegna
 
-I'm in the process of re-doing this site. Please bear with me while I get things set up. I've included some important info below.
-
 ##Assignments
 * [A3 - Due Friday, November 15 by 11:59PM EST][a3]
 
