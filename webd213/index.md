@@ -23,6 +23,10 @@ I'm in the process of re-doing this site. Please bear with me while I get things
 * [Puzzle Design][puzzles]
 
 ## Classes
+
+###Class 10 - November 8, 2013
+* [Snake Game Graphics][snakegfx]
+
 ###Class 09 - November 1, 2013
 * [Discover Chrome Dev tools][chromedev]
 
@@ -35,3 +39,4 @@ I'm in the process of re-doing this site. Please bear with me while I get things
 [des101]:		https://docs.google.com/presentation/d/1MBBrRgSk7le7yQ6lYVeap3GH6MEzU12yR5zcwlfvNSQ/edit?usp=sharing
 [chromedev]:	http://discover-devtools.codeschool.com
 [firstgame]: 	myfirstgame.html
+[snakegfx]:		./snake_graphics.zip
