@@ -23,8 +23,7 @@ layout: default
 ## Classes
 
 ###Class 10 - November 8, 2013
-* [Snake Game Graphics][snakegfx]
-* [Snake Game Font][snakefnt]
+* [Snake Game Assets][snakeassets]
 
 ###Class 09 - November 1, 2013
 * [Discover Chrome Dev tools][chromedev]
@@ -38,5 +37,4 @@ layout: default
 [des101]:		https://docs.google.com/presentation/d/1MBBrRgSk7le7yQ6lYVeap3GH6MEzU12yR5zcwlfvNSQ/edit?usp=sharing
 [chromedev]:	http://discover-devtools.codeschool.com
 [firstgame]: 	myfirstgame.html
-[snakegfx]:		./snake_graphics.zip
-[snakefnt]:		./snake_font.zip
+[snakeassets]:	./snake_assets.zip
