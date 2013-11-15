@@ -5,7 +5,10 @@ layout: default
 #WEBD 213 - Motion Graphics II - Joey Lapegna
 
 ##Assignments
+* [Assignment 4 (Final Project)][a4]
 * [A3 - Due Friday, November 15 by 11:59PM EST][a3]
+* [Assignment 2][a2]
+* [Assignment 1][a1]
 
 ##Resources
 * [Boilerplate Cocos2D Code][boilerplate]
@@ -24,10 +27,13 @@ layout: default
 
 ###Class 10 - November 8, 2013
 * [Snake Game Assets][snakeassets]
+* [This week's code][snakeintro]
 
 ###Class 09 - November 1, 2013
 * [Discover Chrome Dev tools][chromedev]
 
+[a1]: 			./WEBD213_A1.pdf
+[a2]: 			./WEBD213_A2.pdf
 [a3]: 			./WEBD213_A3.pdf
 [boilerplate]:	_boilerplate-2_2.zip
 [api]:			http://www.cocos2d-x.org/reference/html5-js/V2.2/index.html
@@ -38,3 +44,5 @@ layout: default
 [chromedev]:	http://discover-devtools.codeschool.com
 [firstgame]: 	myfirstgame.html
 [snakeassets]:	./snake_assets.zip
+[a4]: 			./WEBD213_A4.pdf
+[snakeintro]:	./snake_intro.zip
