@@ -4,6 +4,11 @@ layout: default
 ---
 #WEBD 213 - Motion Graphics II - Joey Lapegna
 
+<div class="alert alert-error">
+	<h3>Sign up for A4 presentations</h3>
+	<p>Visit <a href="http://joey.youcanbook.me">joey.youcanbook.me</a> to sign up for a time slot for the final assignment presentations</p>
+</div>
+
 ##Assignments
 * [Assignment 4 (Final Project)][a4]
 * [A3 - Due Friday, November 15 by 11:59PM EST][a3]
@@ -23,7 +28,32 @@ layout: default
 * [Language of Game Design][des101]
 * [Puzzle Design][puzzles]
 
+## Help!
+* Getting Cocos2d working on Chrome again
+* Open /platform/html5/shaders/CCGLProgram.js
+* Change Line 261
+
+
+* From: 
+```
+var preStr = (type == this._glContext.VERTEX_SHADER) ? "precision mediump float;\n" : "precision highp float;\n";
+```
+
+* To: 
+```
+var preStr = "precision highp float;\n";
+```
+
 ## Classes
+
+### Class 13 - November 29, 2013
+* [This week's code][snake4]
+
+### Class 12 - November 22, 2013
+* [This week's code][snake3]
+
+### Class 11 - November 15, 2013
+* [This week's code][snake2]
 
 ###Class 10 - November 8, 2013
 * [Snake Game Assets][snakeassets]
@@ -46,3 +76,7 @@ layout: default
 [snakeassets]:	./snake_assets.zip
 [a4]: 			./WEBD213_A4.pdf
 [snakeintro]:	./snake_intro.zip
+[snake2]:		./snake2.zip
+[snake3]:		./snake3.zip
+[snake4]:		./snake4.zip
+[booktime]:		http://joey.youcanbook.me
